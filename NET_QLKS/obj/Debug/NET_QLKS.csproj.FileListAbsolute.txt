@@ -1,0 +1,35 @@
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\bin\Debug\NET_QLKS.exe.config
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\bin\Debug\NET_QLKS.exe
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\bin\Debug\NET_QLKS.pdb
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\bin\Debug\EntityFramework.dll
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\bin\Debug\EntityFramework.SqlServer.dll
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\bin\Debug\Guna.UI2.dll
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\bin\Debug\EntityFramework.xml
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\bin\Debug\EntityFramework.SqlServer.xml
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.csproj.AssemblyReference.cache
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.csproj.SuggestedBindingRedirects.cache
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.DangNhap.resources
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.Properties.Resources.resources
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.csproj.GenerateResource.cache
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.csproj.CoreCompileInputs.cache
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.csproj.CopyComplete
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.exe
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.pdb
+F:\Đồ Án Web\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.TrangChu.resources
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\bin\Debug\NET_QLKS.exe.config
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\bin\Debug\NET_QLKS.exe
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\bin\Debug\NET_QLKS.pdb
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\bin\Debug\EntityFramework.dll
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\bin\Debug\Guna.UI2.dll
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\bin\Debug\EntityFramework.xml
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.csproj.AssemblyReference.cache
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.DangNhap.resources
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.Properties.Resources.resources
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.TrangChu.resources
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.csproj.GenerateResource.cache
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.csproj.CoreCompileInputs.cache
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.csproj.CopyComplete
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.exe
+C:\Users\FPT\Documents\HocKy5\CongNghe .NET\NET_QLKS\NET_QLKS\obj\Debug\NET_QLKS.pdb

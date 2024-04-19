@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c6399d09c606450ab1850fb28e247b72" Name="Diagram1">
+        <EntityTypeShape EntityType="NET_QLKSModel.DICHVU" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NET_QLKSModel.HOADON" Width="1.5" PointX="7.5" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="NET_QLKSModel.KHACH" Width="1.5" PointX="7.5" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="NET_QLKSModel.LOAIPHONG" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="NET_QLKSModel.NHANVIEN" Width="1.5" PointX="5.25" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="NET_QLKSModel.NHOMQUYEN" Width="1.5" PointX="3" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="NET_QLKSModel.PHANQUYEN" Width="1.5" PointX="0.75" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="NET_QLKSModel.PHIEUDATPHONG" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="NET_QLKSModel.PHONG" Width="1.5" PointX="3" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="NET_QLKSModel.sysdiagram" Width="1.5" PointX="9.75" PointY="1.625" IsExpanded="true" />
+        <AssociationConnector Association="NET_QLKSModel.FK__HOADON__MADV__29572725" ManuallyRouted="false" />
+        <AssociationConnector Association="NET_QLKSModel.FK__HOADON__MANV__276EDEB3" ManuallyRouted="false" />
+        <AssociationConnector Association="NET_QLKSModel.FK__HOADON__MAPDP__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="NET_QLKSModel.FK__PHONG__MALOAI__1A14E395" ManuallyRouted="false" />
+        <AssociationConnector Association="NET_QLKSModel.FK__NHANVIEN__MANHOM__15502E78" ManuallyRouted="false" />
+        <AssociationConnector Association="NET_QLKSModel.FK__NHOMQUYEN__MAQ__1273C1CD" ManuallyRouted="false" />
+        <AssociationConnector Association="NET_QLKSModel.FK__PHIEUDATPH__MAPH__20C1E124" ManuallyRouted="false" />
+        <AssociationConnector Association="NET_QLKSModel.CT_PHIEUDATPHONG" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
